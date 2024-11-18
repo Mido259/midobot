@@ -1,0 +1,54 @@
+{
+  "files": {
+    "SlashCommands/encomycommands/ultracash.js": [
+      {
+        "id": "5d7581a9-4fb6-41f3-91c4-eaec26f18f6c",
+        "line": 18,
+        "version": 1,
+        "index": 421
+      }
+    ],
+    "SlashCommands/publiccommands/profile.js": [
+      {
+        "id": "b52030ae-0a3c-4a0e-8fab-1ffa768a1273",
+        "line": 184,
+        "version": 1,
+        "index": 7851
+      },
+      {
+        "id": "55176446-9cc3-47d7-8026-c9ca55e6da51",
+        "line": 184,
+        "version": 1,
+        "index": 7851
+      }
+    ],
+    "SlashCommands/scrims/closereg.js": [
+      {
+        "id": "b2c407d7-3c6e-4b1a-9493-825996ada3e4",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "index.js": [
+      {
+        "id": "027c4ed3-7824-40c5-a0c6-d39710a89e25",
+        "line": 1,
+        "version": 180,
+        "index": 0
+      },
+      {
+        "id": "d1e82ed6-4403-4f9c-b743-2b875f6414bf",
+        "line": 1,
+        "version": 180,
+        "index": 0
+      },
+      {
+        "id": "8fc229c5-ee27-4435-88f7-346d33ffc24b",
+        "line": 1,
+        "version": 180,
+        "index": 0
+      }
+    ]
+  }
+}
